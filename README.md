@@ -1,6 +1,6 @@
 # Sample_Backend_Dev_Portfolio
 
-Sample_Backend_Dev_Portfolio is [@Hilda-Enyioko]'s day one project for [@CodevixensAcademy] 20 Days Of Code Challenge (HTML & CSS Segment).
+Sample_Backend_Dev_Portfolio is [@Hilda-Enyioko]https://www.github.com/Hilda-Enyioko 's day one project for [@CodevixensAcademy]https://www.github.com/CodevixensAcademy 20 Days Of Code Challenge (HTML & CSS Segment).
 It is a sample one-page portfolio website for a backend developer called 'Jane Phillips'. 
 
 ## Challenge Instructions
