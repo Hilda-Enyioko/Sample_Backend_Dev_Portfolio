@@ -18,3 +18,11 @@ It is a sample one-page portfolio website for a backend developer called 'Jane P
 -  Section 1: This contains the name, avatar, job, email and social networks of the backend developer.
 
 -  Section 2: This contains the skills and qualifications of the backend developer. This includes her programming languages, frameworks, tools, experience and current job.
+
+-  Section 3: This contains the latest projects (with  brief description) of the backend developer.
+
+-  Section 4: This contains other projects (with brief description) she has embarked on.
+
+-  Section 5: This section gives a more detailed look into the work experience of the backend developer.
+
+-  Section 6: This contains testimonials and recommendations given by past employers and colleagues.
