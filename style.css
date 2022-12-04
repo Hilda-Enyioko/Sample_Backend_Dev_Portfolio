@@ -1,6 +1,13 @@
 body{
    background-color: rgb(196, 248, 231); 
 }
+h2{
+    color: grey;
+}
+h1, h2, p{
+    padding: 0px 10px;
+    margin: 10px auto;
+}
 .section{
     background-color: aliceblue;
     margin: auto 10px;
@@ -8,6 +15,9 @@ body{
 .introduction{
     background-color: aliceblue;
 }
-.job{
-    color: grey;
+.item p{
+    display: inline-block;
+}
+.skillName{
+    font-weight: bold;
 }
