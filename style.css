@@ -1,5 +1,5 @@
 body{
-   background-color: aquamarine; 
+   background-color: rgb(196, 248, 231); 
 }
 .section{
     background-color: aliceblue;
@@ -10,7 +10,4 @@ body{
 }
 .job{
     color: grey;
-}
-.item{
-    display: inline-block;
 }
