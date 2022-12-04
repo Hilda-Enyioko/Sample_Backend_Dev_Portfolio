@@ -1,0 +1,16 @@
+body{
+   background-color: aquamarine; 
+}
+.section{
+    background-color: aliceblue;
+    margin: auto 10px;
+}
+.introduction{
+    background-color: aliceblue;
+}
+.job{
+    color: grey;
+}
+.item{
+    display: inline-block;
+}
