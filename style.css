@@ -3,8 +3,11 @@ body{
 }
 h2{
     color: grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0px 10px;
 }
-h1, h2, p{
+h1, p{
     padding: 0px 10px;
     margin: 10px auto;
 }
