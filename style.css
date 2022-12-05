@@ -3,9 +3,11 @@ body{
 }
 h2{
     color: rgb(90, 88, 90);
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 0px 10px;
+    margin: 10px, auto;
+    padding-top: 20px; 
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 h1{
     padding: 0px 10px;
@@ -16,8 +18,11 @@ p {
     padding: 0px 10px;
     margin: 10px auto;
 }
-.profile img h1{
+.profile article{
     display: inline-block;
+}
+.email{
+    font-weight: bold;
 }
 .section{
     background-color: rgb(227, 176, 247);
@@ -26,13 +31,13 @@ p {
 .introduction{
     background-color: rgb(227, 176, 247);;
 }
-.item p{
+.item p, .emailId article{
     display: inline-block;
 }
 .skillName, .stackName{
     font-weight: bold;
 }
-.techstack p{
+.techStack p{
     display: inline-block; 
 }
 a{
@@ -43,4 +48,5 @@ a:hover{
 }
 a:active{
     color: grey;
+    text-decoration: underline;
 }
