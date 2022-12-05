@@ -1,26 +1,46 @@
 body{
-   background-color: rgb(196, 248, 231); 
+   background-color: rgb(166, 89, 238); 
 }
 h2{
-    color: grey;
+    color: rgb(90, 88, 90);
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 0px 10px;
 }
-h1, p{
+h1{
     padding: 0px 10px;
     margin: 10px auto;
 }
+p {
+    font-size: medium;
+    padding: 0px 10px;
+    margin: 10px auto;
+}
+.profile img h1{
+    display: inline-block;
+}
 .section{
-    background-color: aliceblue;
+    background-color: rgb(227, 176, 247);
     margin: auto 10px;
 }
 .introduction{
-    background-color: aliceblue;
+    background-color: rgb(227, 176, 247);;
 }
 .item p{
     display: inline-block;
 }
-.skillName, .techStack{
+.skillName, .stackName{
     font-weight: bold;
+}
+.techstack p{
+    display: inline-block; 
+}
+a{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(172, 169, 175);
+}
+a:active{
+    color: grey;
 }
