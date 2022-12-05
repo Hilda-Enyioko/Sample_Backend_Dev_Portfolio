@@ -21,6 +21,6 @@ h1, p{
 .item p{
     display: inline-block;
 }
-.skillName{
+.skillName, .techStack{
     font-weight: bold;
 }
