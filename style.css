@@ -1,10 +1,14 @@
 body{
    background-color: rgb(166, 89, 238); 
 }
+.img {
+    margin: 10px, auto;
+    padding: 10px;
+}
 h2{
     color: rgb(90, 88, 90);
     margin: 10px, auto;
-    padding-top: 20px; 
+    padding-top: 10px; 
     padding-bottom: 0px;
     padding-left: 10px;
     padding-right: 10px;
@@ -21,9 +25,6 @@ p {
 .profile article{
     display: inline-block;
 }
-.email{
-    font-weight: bold;
-}
 .section{
     background-color: rgb(227, 176, 247);
     margin: auto 10px;
@@ -31,10 +32,10 @@ p {
 .introduction{
     background-color: rgb(227, 176, 247);;
 }
-.item p, .emailId article{
+.item p, .emailId article, .footer article{
     display: inline-block;
 }
-.skillName, .stackName{
+.skillName, .stackName, .email, .jobDesc{
     font-weight: bold;
 }
 .techStack p{
@@ -49,4 +50,10 @@ a:hover{
 a:active{
     color: grey;
     text-decoration: underline;
+}
+.footer article{
+    color: black;
+    margin: auto 50%;
+    padding: auto 50%;
+    display: inline-block
 }
